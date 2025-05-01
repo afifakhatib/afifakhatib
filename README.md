@@ -1,19 +1,19 @@
 - 👋 Hi, I’m @afifakhatib
 - I'm a **Web Developer** passionate about building responsive and user-friendly websites , with **Angular** and focused on improving my front-end development skills.
-- 
+  
 - 😄 Pronouns: she/her
 
 - 👀 I’m interested in web development, building clean UIs, and learning new technologies  
 
 - 🛠️ Skills : 
- HTML, CSS, JavaScript  
- Angular framework
- TypeScript
- SCSS
- Rxjs
- Flexbox
- Bootstrap
- Responsive Web Design  
+ HTML, CSS, JavaScript ,
+ Angular framework ,
+ TypeScript ,
+ SCSS ,
+ Rxjs , 
+ Flexbox , 
+ Bootstrap , 
+ Responsive Web Design ,
  Git & GitHub
 
 - 💞️ I’m looking to collaborate on beginner-friendly web projects and open-source contributions 
