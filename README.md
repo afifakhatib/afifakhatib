@@ -19,7 +19,7 @@
 - 💞️ I’m looking to collaborate on beginner-friendly web projects and open-source contributions 
 
 - 📫 How to reach me : 
-- Email: khatibadiba12@gmail.com - LinkedIn: [LinkedIn](https://www.linkedin.com/in/afifa-khatib) - Portfolio: [portfolio-link.com](https://your-portfolio-link.com)
+- Email: khatibadiba12@gmail.com - LinkedIn: [LinkedIn](https://www.linkedin.com/in/afifa-khatib) - Portfolio: [portfolio-link.com](https://afifa03kpersonal-portfoilo.vercel.app/)
 
 ---
 
